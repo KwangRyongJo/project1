@@ -1,0 +1,10 @@
+;annotation;DM v3 Scaffold;SNP Position;Best Arabidopsis Hit – Locus;Best Arabidopsis Hit - Annotation
+solcap_snp_c1_4086;Multidrug resistance protein ABC transporter family;PGSC0003DMS000001283;103924;AT1G04120.1;"ATMRP5; ATPase, coupled to transmembrane movement of substances / sulfonylurea receptor "
+solcap_snp_c1_4822;Xanthine dehydrogenase;PGSC0003DMS000002798;391540;AT4G34900.1;"XDH2 (XXANTHINE DEHYDROGENASE 2); FAD binding / catalytic/ electron carrier/ iron ion binding / iron-sulfur cluster binding / metal ion binding / oxidoreductase/ xanthine dehydrogenase "
+;;;;;
+solcap_snp_c2_27648;Serine/threonine-protein kinase PBS1;PGSC0003DMS000001704;248127;AT3G24660.1;"TMKL1 (transmembrane kinase-like 1); ATP binding / kinase/ protein serine/threonine kinase "
+solcap_snp_c1_4076;Alcohol dehydrogenase class III;PGSC0003DMS000004150;49249;AT5G43940.1;"HOT5 (sensitive to hot temperatures 5); S-(hydroxymethyl)glutathione dehydrogenase/ S-nitrosoglutathione reductase "
+solcap_snp_c2_12783;Multidrug resistance-associated protein 2, 6 (Mrp2, 6), abc-transoprter;PGSC0003DMS000001283;99717;AT1G04120.1;"ATMRP5; ATPase, coupled to transmembrane movement of substances / sulfonylurea receptor "
+solcap_snp_c2_12787;Multidrug resistance protein ABC transporter family;PGSC0003DMS000001283;101035;AT1G04120.1;"ATMRP5; ATPase, coupled to transmembrane movement of substances / sulfonylurea receptor "
+solcap_snp_c1_14683;Heterogeneous nuclear ribonucleoprotein;PGSC0003DMS000002798;147726;AT3G20890.1;RNA binding / nucleic acid binding / nucleotide binding 
+solcap_snp_c2_49808;2-oxoglutarate/malate translocator, chloroplast;PGSC0003DMS000002798;262555;AT5G12860.1;"DiT1 (dicarboxylate transporter 1); oxoglutarate:malate antiporter "
